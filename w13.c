@@ -34,10 +34,6 @@ int main(int argc, char * argv[]){
    //Return the matching position of the string
    horspoolMatch(argv[1], argv[2]);
 
-   //This is a fun, but diffcult algorithm!
- 
-
-
    return 0;
 }
 
