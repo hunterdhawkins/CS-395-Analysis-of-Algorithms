@@ -1,12 +1,3 @@
-/******************************************
- * Id: Hawk5052
- *
- * Purpose: Impliment the selection sort
- * Input: array to be sorted
- * Output: sorted array
- * Compile: gcc -o w08 w08.c
- *
- *****************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
