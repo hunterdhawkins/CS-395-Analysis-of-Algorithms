@@ -3,7 +3,7 @@
 #include <string.h>
 
 
-//prototypes
+
 void russianPes(int, int);
 
 //argc is the number of arguments, argv is arguments themselves
@@ -23,7 +23,6 @@ int main(int argc, char * argv[]){
    return 0;
 }
 
-//actual selection sort logic
 void russianPes(int num1, int num2){
    
    int res =0;
